@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Datacamp/Mlflow_reg_Project/mlruns/519072751663547620/15f1f0784a5940a6bbdf2a925d62b3ba/artifacts
+end_time: 1703147163427
+entry_point_name: ''
+experiment_id: '519072751663547620'
+lifecycle_stage: active
+run_id: 15f1f0784a5940a6bbdf2a925d62b3ba
+run_name: RandomForest_Cooling_Load
+run_uuid: 15f1f0784a5940a6bbdf2a925d62b3ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703147156820
+status: 3
+tags: []
+user_id: Shanmukhi B

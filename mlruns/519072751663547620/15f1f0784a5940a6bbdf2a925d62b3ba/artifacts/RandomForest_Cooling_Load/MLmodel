@@ -1,0 +1,20 @@
+artifact_path: RandomForest_Cooling_Load
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.9.2
+model_size_bytes: 4863677
+model_uuid: 69225295eb59486aafe49da545fde3e4
+run_id: 15f1f0784a5940a6bbdf2a925d62b3ba
+utc_time_created: '2023-12-21 08:25:57.547174'

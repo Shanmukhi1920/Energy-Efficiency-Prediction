@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Datacamp/Mlflow_reg_Project/mlruns/519072751663547620/ef8436a5adaa40c7ae3c613a743567cd/artifacts
+end_time: 1703147150792
+entry_point_name: ''
+experiment_id: '519072751663547620'
+lifecycle_stage: active
+run_id: ef8436a5adaa40c7ae3c613a743567cd
+run_name: GradientBoosting_Heating_Load
+run_uuid: ef8436a5adaa40c7ae3c613a743567cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703147144428
+status: 3
+tags: []
+user_id: Shanmukhi B

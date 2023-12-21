@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1703147221260
+current_stage: Production
+description: null
+last_updated_timestamp: 1703147221401
+name: CoolingLoad
+run_id: cff72529e8af48b88c96553e7b35a582
+run_link: null
+source: file:///d:/Datacamp/Mlflow_reg_Project/mlruns/519072751663547620/cff72529e8af48b88c96553e7b35a582/artifacts/Tuned-GradientBoosting_Cooling_Load
+status: READY
+status_message: null
+storage_location: file:///d:/Datacamp/Mlflow_reg_Project/mlruns/519072751663547620/cff72529e8af48b88c96553e7b35a582/artifacts/Tuned-GradientBoosting_Cooling_Load
+user_id: null
+version: 1

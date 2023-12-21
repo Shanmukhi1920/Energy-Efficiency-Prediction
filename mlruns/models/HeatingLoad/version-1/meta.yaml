@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1703147221203
+current_stage: Production
+description: null
+last_updated_timestamp: 1703147221320
+name: HeatingLoad
+run_id: eb0d550e75d94af0bf002269ce7f1aa5
+run_link: null
+source: file:///d:/Datacamp/Mlflow_reg_Project/mlruns/519072751663547620/eb0d550e75d94af0bf002269ce7f1aa5/artifacts/Tuned-GradientBoosting_Heating_Load
+status: READY
+status_message: null
+storage_location: file:///d:/Datacamp/Mlflow_reg_Project/mlruns/519072751663547620/eb0d550e75d94af0bf002269ce7f1aa5/artifacts/Tuned-GradientBoosting_Heating_Load
+user_id: null
+version: 1
