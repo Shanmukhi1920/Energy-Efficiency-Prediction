@@ -15,6 +15,7 @@ This project uses machine learning to predict heating and cooling loads in build
 - **Deployment:** Models registered in MLflow, with the best models transitioned to production.
 
 # Installation and Usage
+To set up the project, clone the repository, install dependencies, and navigate to the directory. Run Jupyter Notebook to view the project:
 ```bash
 git clone https://github.com/Shanmukhi1920/Energy_Efficiency
 cd Energy_Efficiency
