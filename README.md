@@ -18,6 +18,7 @@ This project uses machine learning to predict heating and cooling loads in build
 ```bash
 git clone https://github.com/Shanmukhi1920/Energy_Efficiency
 cd Energy_Efficiency
+pip install -r requirements.txt
 jupyter notebook
 ```
 Then, open `Notebook.ipynb` in Jupyter.
