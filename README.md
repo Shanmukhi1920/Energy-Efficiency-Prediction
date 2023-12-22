@@ -29,6 +29,14 @@ Then, open `Notebook.ipynb` in Jupyter.
 - Access trained models and logs in the `mlruns/` directory.
 
 # Key Findings
-- 'Relative_Compactness' and 'Overall_height' significantly influence both heating and cooling loads.
-- Models demonstrate high accuracy, with the heating load model slightly outperforming the cooling load model.
+**Model Performance Overview**: The Gradient Boosting model exhibits strong performance and generalization for both heating (HL) and cooling load (CL) predictions, with R-squared values near 1.0 across all datasets, indicating nearly perfect fit and prediction accuracy.
+
+**Heating Load Predictions**: Heating load predictions are highly accurate with a training RMSE of 0.27, validation RMSE of 0.45, and test RMSE of 0.427, demonstrating the model's precise fit and consistent performance across different data sets.
+
+**Cooling Load Predictions**: Cooling load predictions, while accurate, show slightly higher errors with a training RMSE of 0.39, validation RMSE of 0.97, and test RMSE of 0.786, indicating a need for further refinement to achieve the precision seen in heating load predictions.
+
+**Consistency and Robustness**: The model demonstrates robustness and consistency, with test R-squared values of 0.998 for HL and 0.993 for CL, suggesting strong predictive capabilities and reliability for practical applications.
+
+
+
 
