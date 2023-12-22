@@ -1,18 +1,20 @@
 
 # Overview
-This project uses machine learning to predict heating and cooling loads in buildings based on architectural features.
+The Energy Efficiency Prediction project integrates MLflow for experiment tracking and applies machine learning techniques to forecast heating and cooling loads in buildings. It emphasizes the utilization of architectural features to enhance the understanding of energy efficiency and to increase the accuracy of model predictions.
 
 # Repository Contents
 - `ENB2012_data.csv`: Dataset with architectural features and target variables.
 - `notebook.ipynb`: Jupyter notebook with the project's code and analysis.
 - `mlruns/`: MLflow logs and registered models.
 
-# Workflow Summary
-- **Data Processing:** Data loading, cleaning, and preprocessing, including standardization and train-test split.
-- **Feature Engineering:** Creation of new features and elimination of redundant ones for enhanced model accuracy.
-- **Model Development:** Training and evaluation of Decision Tree, Random Forest, and Gradient Boosting Regressors using MLflow.
-- **Model Analysis:** Performance metrics analysis (RMSE, MAE, R²) and feature importance studies.
-- **Deployment:** Models registered in MLflow, with the best models transitioned to production.
+# Methodology
+- **Exploratory Data Analysis:** Involves the loading of data and conducting EDA using histograms, scatter plots, and heatmaps.
+- **Feature Optimization:** Focuses on enhancing the dataset by implementing strategic feature engineering, aiming to refine and utilize the most relevant information.
+- **Data Preprocessing:** Involves preprocessing of data, which includes tasks like standardizing data and splitting it into training and testing sets.
+- **Model Training and Evaluation:** Involves the development and assessment of various regression models, such as Decision Trees, Random Forests, and Gradient Boosting
+- **Key Feature Identification:** Conducts a thorough analysis to pinpoint and emphasize critical features impacting model predictions, like 'Relative Compactness' and 'Overall Height'.
+- **Performance Assessment:** Focuses on evaluating the models based on key performance indicators, including RMSE, MAE, and R², coupled with an analysis of feature impacts.
+- **Utilization of MLflow:** Employing MLflow for comprehensive experiment tracking, efficient model management, and ensuring streamlined deployment of models to production environments.
 
 # Installation and Usage
 To set up the project, clone the repository, install dependencies, and navigate to the directory. Run Jupyter Notebook to view the project:
