@@ -13,7 +13,7 @@ The Energy Efficiency Prediction project integrates MLflow for experiment tracki
 - **Data Preprocessing:** Involves preprocessing of data, which includes tasks like standardizing data and splitting it into training and testing sets.
 - **Model Training and Evaluation:** Involves the development and assessment of various regression models, such as Decision Trees, Random Forests, and Gradient Boosting
 - **Key Feature Identification:** Conducts a thorough analysis to pinpoint and emphasize critical features impacting model predictions, like 'Relative Compactness' and 'Overall Height'.
-- **Performance Assessment:** Focuses on evaluating the models based on key performance indicators, including RMSE, MAE, and R², coupled with an analysis of feature impacts.
+- **Performance Assessment:** Focuses on evaluating the models based on key performance indicators, including RMSE, MAE, and R².
 - **Utilization of MLflow:** Employing MLflow for comprehensive experiment tracking, efficient model management, and ensuring streamlined deployment of models to production environments.
 
 # Installation and Usage
