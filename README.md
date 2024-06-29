@@ -3,8 +3,8 @@
 The Energy Efficiency Prediction project integrates MLflow for experiment tracking and applies machine learning techniques to forecast heating and cooling loads in buildings. It emphasizes the utilization of architectural features to enhance the understanding of energy efficiency and to increase the accuracy of model predictions.
 
 # Repository Contents
-- `ENB2012_data.csv`: Dataset with architectural features and target variables.
-- `notebook.ipynb`: Jupyter notebook with the project's code and analysis.
+- `data/ENB2012_data.csv`: Dataset with architectural features and target variables.
+- `notebooks/Notebook.ipynb`: Jupyter notebook with the project's code and analysis.
 - `mlruns/`: MLflow logs and registered models.
 
 # Methodology
@@ -24,7 +24,7 @@ cd Energy_Efficiency
 pip install -r requirements.txt
 jupyter notebook
 ```
-Then, open `Notebook.ipynb` in Jupyter.
+Then, open `Notebook.ipynb` in Jupyter in the `notebooks/` directory.
 
 - Access trained models and logs in the `mlruns/` directory.
 
