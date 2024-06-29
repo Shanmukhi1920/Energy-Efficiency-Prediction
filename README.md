@@ -37,6 +37,8 @@ Then, open `Notebook.ipynb` in Jupyter.
 
 **Consistency and Robustness**: The model demonstrates robustness and consistency, with test R-squared values of 0.998 for HL and 0.993 for CL, suggesting strong predictive capabilities and reliability for practical applications.
 
+# Citations
+Tsanas,Athanasios and Xifara,Angeliki. (2012). Energy Efficiency. UCI Machine Learning Repository. https://doi.org/10.24432/C51307.
 
 
 
