@@ -1,6 +1,6 @@
 
 # Overview
-The Energy Efficiency Prediction project integrates MLflow for experiment tracking and applies machine learning techniques to forecast heating and cooling loads in buildings. It emphasizes the utilization of architectural features to enhance the understanding of energy efficiency and to increase the accuracy of model predictions.
+The Energy Efficiency Prediction project uses MLflow and machine learning to forecast building energy loads based on architectural features. This addresses real-world needs by optimizing HVAC operations, guiding sustainable design, supporting efficient urban planning, and facilitating targeted retrofits. By combining architectural analysis with predictive modeling, the project offers a powerful tool to reduce energy consumption, costs, and environmental impact in the built environment, helping tackle climate change and resource scarcity challenges.
 
 # Repository Contents
 - `data/ENB2012_data.csv`: Dataset with architectural features and target variables.
